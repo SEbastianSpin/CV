@@ -1,0 +1,39 @@
+
+body{
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+}
+h1{
+  font-size: 7rem;
+}
+/* media query center */
+.black{
+  background-color: #0A0808;
+  color: #FCFDFD;
+}
+.white{
+  background-color: #FCFDFD;
+  color: #0A0808;
+}
+
+.container-fluid .SE{
+  width: 50px;
+}
+.icons{
+  padding: 100% 0;
+}
+.icons:hover{
+  background-image: linear-gradient(#0A0808, #303139, #0A0808);
+}
+.intro{
+  padding: 5% ;
+  /* text-align: right; */
+}
+.menu{
+  text-align: left;
+}
+
+#photoMe{
+  width: 400px;
+  margin-right: 100%;
+}
